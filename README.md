@@ -37,7 +37,7 @@ Git tracks changes to your project as you save.
 ---
 Type your name below   
 
-> What's your name? :  Replace this text with your name
+> What's your name? :  Josh Becker, future ruler of the universe
 
 And save the file ( ctrl + s )
 
@@ -155,7 +155,7 @@ And that's what it takes to use Termianl To Commit and Push your repo online.
 #### Your `save, add, commit, push` Workflow
 
 Type your favorite color below:
-> What's your favorite color: Replace this text
+> What's your favorite color: Blorkle, a color only I can see.
 Then save.
 
 Now do the following in terminal, one command at a time
