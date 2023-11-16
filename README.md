@@ -172,7 +172,7 @@ You should have seen what changes need to be staged, staged them, commited your 
 One more time
 
 What do you want to program when you graduate?
-> What do you want to program? Replace this and save
+> Apps I think.
 
 Then
 ```
@@ -244,7 +244,7 @@ Now any commits we make will be saved to our, `MyNewBranch` branch, not to main.
 
 - Main Branch
 Test it out:
-> What is todays date? : 11/4/23
+> What is todays date? : 11/13/2023
 
 And do our standard commit workflow.
 ```
